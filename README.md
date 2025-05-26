@@ -1,2 +1,2 @@
 # denemerepo
-sadece deneme proper bla bla 
+sadece deneme proper name bla bla 
